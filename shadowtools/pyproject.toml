@@ -27,7 +27,7 @@ readme = "README.md"
 # supported platforms.
 dependencies = [
     # Version of python3-yaml on ubuntu 20.04.
-    "pyyaml ~= 5.3",
+    "pyyaml ~= 6.0",
 ]
 
 [project.urls]
